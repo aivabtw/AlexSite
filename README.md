@@ -1,2 +1,2 @@
 # AlexSite
-Site based on discord websockets
+Site for my friend
